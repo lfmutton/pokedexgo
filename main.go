@@ -7,7 +7,6 @@ import (
 )
 
 type config struct {
-	a
 	apiClient           api.Client
 	nextLocationURL     *string
 	previousLocationURL *string
